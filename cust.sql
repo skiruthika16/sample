@@ -1,0 +1,1 @@
+select * from custpayment where custid='001';
